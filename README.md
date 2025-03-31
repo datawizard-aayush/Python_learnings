@@ -1,12 +1,12 @@
 # Python_learnings
 
-📌 About
+📌 About :-
 This repository contains Python scripts covering fundamental topics required for beginner
 
-🎯 Goals
+🎯 Goals:-
 *Build a strong foundation in Python
 *Practice coding consistently
 *Prepare for more advanced topics in the future
 
-💡 How to Use
+💡 How to Use:-
 Feel free to check out the code! If you have any suggestions, please do let me know.
